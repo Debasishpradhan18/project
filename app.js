@@ -1,2 +1,1 @@
-// add the feature button.
-// add the color of button
+// add the inp\\ut field and button to the page
